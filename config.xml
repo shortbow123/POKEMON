@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>OnlineOS</name>
+    <name>Virtual Computer</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+        An app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="upanddownstudios@outlook.com">
