@@ -9,7 +9,7 @@
 
     <name>Virtual Computer</name>
     
-     <icon src="Scratch-to-Phonegap/icon.png" />
+     <icon src="res/icon.png" />
 
     <description>
         An app made using Scratch, Phonegap, github, and PhoneGap
