@@ -8,6 +8,8 @@
     <!-- versionCode is optional and Android only -->
 
     <name>Virtual Computer</name>
+    
+     <icon src="Scratch-to-Phonegap/icon.png" />
 
     <description>
         An app made using Scratch, Phonegap, github, and PhoneGap
