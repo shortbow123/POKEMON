@@ -7,12 +7,12 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Virtual Computer</name>
+    <name>Drink Da Water</name>
     
      <icon src="/icon.png" />
 
     <description>
-        An app made using Scratch, Phonegap, github, and PhoneGap
+        An app made using Scratch.mit.edu, Adobe Phonegap,GitHub and GizGames
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="upanddownstudios@outlook.com">
