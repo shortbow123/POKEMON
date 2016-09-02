@@ -2,8 +2,8 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "drinkdawater.gizgames.scratch.mit.edu"
-        versionCode = "23" 
-        version     = "0.2.3" >
+        versionCode = "65" 
+        version     = "0.6.5" >
 
     <!-- versionCode is optional and Android only -->
 
@@ -12,7 +12,7 @@
      <icon src="/icon.png" />
 
     <description>
-        Drink Da Water, Earn Da Cash, Buy Da City
+        Drink Da Water, Earn Da Cash.
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="upanddownstudios@outlook.com">
