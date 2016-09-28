@@ -2,7 +2,7 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "drinkdawater.gizgames.scratch.mit.edu"
-        versionCode = "98" 
+        versionCode = "98.5" 
         version     = "0.9.8" >
 
     <!-- versionCode is optional and Android only -->
