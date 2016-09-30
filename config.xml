@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "adventuretest.gizgames.scratch.mit.edu"
+        id          = "withoutacar.gizgames.scratch.mit.edu"
         versionCode = "0.1" 
         version     = "0.0.1" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Adventure Test</name>
+    <name>Without A Car</name>
     
      <icon src="/icon.png" />
 
     <description>
-        A test for my 3rd android app!
+        You have no car, no home, but you have a pedometer. Walk to gain add steps trade steps for cash! Buy everything!
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="GizGames@gmx.com">
