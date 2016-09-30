@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "drinkdawater.gizgames.scratch.mit.edu"
-        versionCode = "99" 
-        version     = "0.9.8" >
+        id          = "adventuretest.gizgames.scratch.mit.edu"
+        versionCode = "0.1" 
+        version     = "0.0.1" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Drink Da Water</name>
+    <name>Adventure Test</name>
     
      <icon src="/icon.png" />
 
     <description>
-        Drink Da Water, Earn Da Cash.
+        A test for my 3rd android app!
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="GizGames@gmx.com">
