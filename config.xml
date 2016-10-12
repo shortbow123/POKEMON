@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "withoutacar.gizgames.scratch.mit.edu"
-        versionCode = "0.1" 
-        version     = "0.0.1" >
+        id          = "questforacar.gizgames.scratch.mit.edu"
+        versionCode = "010" 
+        version     = "0.1.0" >
 
     <!-- versionCode is optional and Android only -->
 
@@ -12,7 +12,7 @@
      <icon src="/icon.png" />
 
     <description>
-        You have no car, no home, but you have a pedometer. Walk to gain add steps trade steps for cash! Buy everything!
+        You have no car, no home, and your phone counts steps, which some dude trades for cash...
     </description>
 
     <author href="http://scratch.mit.edu/users/GizGames" email="GizGames@gmx.com">
